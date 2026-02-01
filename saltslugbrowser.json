@@ -1,8 +1,8 @@
 {
 "port": 8080,
 "baseURL": "",
-"address": "192.168.1.69",
+"address": "example.com/server/",
 "log": "stdout",
 "database": "/etc/filebrowser.db",
-"root": "/home/saltslug/saltslug-server/saltslug-portal/saltslug.dir/"
+"root": "/saltslug-server/saltslug-portal/saltslug.dir/"
 )
